@@ -7,14 +7,6 @@
 - My primary areas of focus are application security (including API security), CI/CD automation & tooling, infrastucture security, penetration testing, and risk management.
 - Ask me about automation, clean code, linux, open source, pipelines, and privacy.
 
-## My GitHub Stats
-
-<div class="badges-githubstats">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=garretpatten-ncino&theme=tokyonight&show_icons=true&count_private=true" alt="garretpatten-ncino's Stats"/>
-  </p>
-</div>
-
 ## Contact Me
 
 - Reach out to me via <a href="mailto:garret.patten@ncino.com">email</a> or <a href="https://ncino.enterprise.slack.com/archives/D5EP46X6V">slack</a>.
