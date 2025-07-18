@@ -1,11 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=009EDB&height=120&section=header" alt="header"/> 
 
 # Hi, I'm Garret! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-![Profile views](https://komarev.com/ghpvc/?username=garretpatten-ncino&label=Profile%20views&color=60598F&style=flat)
 
 - I'm a Senior Security Engineer on the nCino Product Security team.
-- My primary areas of focus are application security (including API security), CI/CD automation & tooling, infrastucture security, penetration testing, and risk management.
-- Ask me about automation, clean code, linux, open source, pipelines, and privacy.
+- My primary areas of focus are application security, CI/CD automation & tooling, infrastucture security, penetration testing, and risk management.
 
 ## Contact Me
 
