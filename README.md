@@ -6,8 +6,8 @@ I build automated security guardrails and policy guidance that empower developer
 
 ### Security Engineering & Automation
 
-- Architect and maintain the `codeowner-verifier`, the `license-verifier`, and `security-checks` for enforcing policy across CI/CD
-- Develop custom Semgrep rules for static application security testing (SAST)
+- Architect and maintain the `codeowner-verifier`, the `license-verifier`, the `n8n-sast-action`, and `security-checks` for enforcing policy across CI/CD
+- Develop custom Semgrep, Opengrep, and Orca SAST rules for static application security testing (SAST)
 
 ### Platform Administration & Governance
 
