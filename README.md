@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=009EDB&height=120&section=header" alt="header"/>
 
-## Hi, I'm Garret — Senior Security Engineer @ nCino
+## Hi, I'm Garret — Senior Security Engineer @ nCino Product Security
 
 I build automated security guardrails and policy guidance that empower developers to adopt secure practices without compromising velocity.
 
