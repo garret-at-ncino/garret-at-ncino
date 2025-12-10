@@ -1,23 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=009EDB&height=120&section=header" alt="header"/>
 
-## Hi, I'm Garret — Senior Security Engineer @ nCino <img alt="Waving Hand" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+## Hi, I'm Garret — Senior Security Engineer @ nCino
 
 I build automated security guardrails and policy guidance that empower developers to adopt secure practices without compromising velocity.
 
-### Security Engineering & Automation
-
-- Architect and maintain the `codeowner-verifier`, the `license-verifier`, the `n8n-sast-action`, and `security-checks` for enforcing policy across CI/CD
-- Develop custom Semgrep, Opengrep, and Orca SAST rules for static application security testing (SAST)
-
-### Platform Administration & Governance
-
-- Administer GitHub Enterprise and Sourcegraph for the engineering organization
-- Define and enforce security baselines across development environments
-
-### Security Education & Knowledge Transfer
-
-- Author monthly technical articles on OWASP Top 10 and emerging security practices
-- Translate security requirements into actionable developer guidance
+### What I Do
+- Security Engineering & Automation — Custom GitHub Actions for policy enforcement across CI/CD, SAST rule development (Semgrep, Opengrep, Orca), and security workflow automation with n8n.
+- Platform Administration — GitHub Enterprise and Sourcegraph administration, security baseline definition, and enforcement across development environments.
+- Security Education — Monthly technical articles on OWASP Top 10 and emerging threats, translating security requirements into actionable developer guidance.
 
 ## Contact Me
 
