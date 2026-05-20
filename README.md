@@ -11,11 +11,6 @@ I build automated security guardrails and policy guidance that make secure pract
 
 **Security Education** — Monthly technical articles on OWASP Top 10 and emerging threats, translating security requirements into actionable developer guidance.
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=garret-at-ncino&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=default&hide=stars" alt="GitHub Stats" />
-</p>
 
 ---
 
