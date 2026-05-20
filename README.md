@@ -13,4 +13,10 @@ I build automated security guardrails and policy guidance that make secure pract
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=garret-at-ncino&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=default&hide=stars" alt="GitHub Stats" />
+</p>
+
+---
+
 [garret.patten@ncino.com](mailto:garret.patten@ncino.com) · [Slack](https://ncino.enterprise.slack.com/archives/D5EP46X6V)
